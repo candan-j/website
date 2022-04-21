@@ -6,7 +6,7 @@
     "feed_url": "https://candan-juwelier.de/feed.json",
     "user_comment": "",
     "author": {
-        "name": "Michael Araz"
+        "name": "Admin"
     },
     "items": [
         {
@@ -15,7 +15,7 @@
             "title": "Seite im Aufbau",
             "image": "https://candan-juwelier.de/media/posts/13/diamond-svgrepo-com.svg",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
             ],
@@ -26,18 +26,18 @@
             "id": "https://candan-juwelier.de/breitling-navitimer.html",
             "url": "https://candan-juwelier.de/breitling-navitimer.html",
             "title": "Breitling Navitimer",
-            "summary": " ",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/2-3.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/2-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/1.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/0.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/0-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
+            "summary": " ... test ",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/2-3.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/2-3-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/1.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/11/gallery/0.png\" data-size=\"2048x2048\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/11/gallery/0-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>\n<p>...</p>\n<p><button>test</button></p>\n<p> </p>",
             "image": "https://candan-juwelier.de/media/posts/11/2-3.png",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Uhr",
                    "Schmuck"
             ],
             "date_published": "2022-03-06T18:13:55+01:00",
-            "date_modified": "2022-03-06T18:13:55+01:00"
+            "date_modified": "2022-03-07T15:05:28+01:00"
         },
         {
             "id": "https://candan-juwelier.de/drive-de-cartier.html",
@@ -47,7 +47,7 @@
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/9/gallery/2.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/9/gallery/2-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/9/gallery/0.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/9/gallery/0-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/9/gallery/1.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/9/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
             "image": "https://candan-juwelier.de/media/posts/9/2.png",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Uhr",
@@ -64,7 +64,7 @@
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/8/gallery/0.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/8/gallery/0-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/8/gallery/1.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/8/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/8/gallery/2.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/8/gallery/2-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
             "image": "https://candan-juwelier.de/media/posts/8/0.png",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Schmuck",
@@ -81,7 +81,7 @@
             "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\"  data-is-empty=\"false\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/7/gallery/0.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/7/gallery/0-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/7/gallery/1.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/7/gallery/1-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-juwelier.de/media/posts/7/gallery/2.png\" data-size=\"1250x1250\"><img loading=\"lazy\" src=\"https://candan-juwelier.de/media/posts/7/gallery/2-thumbnail.png\" alt=\"\" width=\"768\" height=\"768\"></a></figure>\n</div></div>",
             "image": "https://candan-juwelier.de/media/posts/7/0.png",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Schmuck",
@@ -98,7 +98,7 @@
             "content_html": "<p>Ihre Uhr ist unsauber oder beschädigt? Bringen Sie Ihre Uhr zu uns, damit sie wieder in altem Glanz erstrahlt.</p>\n<p>Unser Service umfasst</p>\n<ul>\n<li>Reinigung</li>\n<li>Reparatur</li>\n<li>Wartung</li>\n<li>Prüfung der Ganggenauigkeit und</li>\n<li>Dichtheitsprüfung</li>\n</ul>\n<p>durch einen Uhrmacher, damit Ihre Uhr lange überdauert.</p>\n<p>Wir freuen uns, Ihre Uhr schnell und fachmännisch für Sie pflegen zu dürfen.</p>\n<p>Sie sind auf der Suche nach einem besonderen Modell? Gerne unterstützen wir Sie bei Ihrer Suche.</p>\n<h2>Pflegehinweis</h2>\n<p>Sie können den Glanz Ihrer Uhr und anderem Schmuck mit einfachen Mitteln teilweise erhalten. Nutzen Sie ein weiches Tuch (z.B. Brillentuch) zur regelmäßigen Reinigung. Außerdem können Sie eine weiche Bürste und Seifenwasser verwenden, um Metallteile von Unreinheiten zu befreien.<br>Stellen Sie bei jedem Kontakt mit Flüssigkeiten vorher sicher, dass die Krone der Uhr fest mit dem Gehäuse verschraubt ist. So tritt keine Feuchtigkeit in die Uhr ein. Besonders nach einem Bad in salzigem Meerwasser sollten Sie Ihre Uhr kurz unter Leitungswasser abspülen, um Korrosion vorzubeugen.</p>",
             "image": "https://candan-juwelier.de/media/posts/6/luxusuhr.jpg",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Leistungen"
@@ -114,7 +114,7 @@
             "content_html": "<p>Ihr Schmuck ist unsauber oder beschädigt? Bringen Sie ihn zu uns, damit er wieder in altem Glanz erstrahlt.</p>\n<p>Wir freuen uns, Ihren Schmuck schnell und fachmännisch für Sie repararien zu dürfen. Sprechen Sie uns an.</p>",
             "image": "https://candan-juwelier.de/media/posts/5/reparatur.jpg",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Leistungen"
@@ -130,7 +130,7 @@
             "content_html": "<p>Wir bieten Ihnen gerne die Möglichkeit, Ihren Schmuck unverbindlich von uns bewerten zu lassen, um einzelne Stücke zu kaufen.</p>\n<p>Verkaufen Sie uns Ihren Schmuck:</p>\n<ul>\n<li>Gold</li>\n<li>Diamanten und andere Edelsteine</li>\n<li>Uhren</li>\n<li>Ringe, Armbänder und Ketten</li>\n</ul>\n<p>Rufen Sie an, um einen Termin zu vereinbaren oder kommen Sie einfach während unserer Öffnungszeiten auf uns zu. Wir freuen uns auf Ihren Besuch!</p>",
             "image": "https://candan-juwelier.de/media/posts/4/ankauf.jpg",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Leistungen"
@@ -146,7 +146,7 @@
             "content_html": "<p class=\"post__entry__intro\">Lassen Sie sich bei uns kompetent beraten!<br>Seit 1998 begleiten wir unsere Kunden erfolgreich bei der Auswahl ihrer Verlobungs- oder Trauringe, Armbänder, Uhren und anderen Schmuckstücke für verschieden Anlässe oder den Alltag.<br>Bei uns werden Sie fündig.</p>",
             "image": "https://candan-juwelier.de/media/posts/3/sekt.jpg",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
                    "Leistungen"
@@ -161,7 +161,7 @@
             "summary": "Inhaber: Herr Hanna Candan Montag bis Freitag von 10.00 bis 18.00 Uhr Samstag von 10.00 bis 16.00 Uhr Wo Sie uns finden ",
             "content_html": "<p>Inhaber: Herr Hanna Candan<br><br></p>\n<address><a href=\"https://goo.gl/maps/CHo6X38EDgVmdVSA6\" title=\"(Finden Sie uns bei Google-Maps)\">Ellenbogengasse 4, 65183 Wiesbaden</a><br><a href=\"tel:004961136038470\" title=\"(Rufen Sie uns an)\">📞 0611 36038470</a><br><a href=\"mailto:info@candan-juwelier.de\" title=\"(Schreiben Sie uns eine eMail)\">✉️ info@candan-juwelier.de</a><br><br></address>\n<h3>Öffnungszeiten</h3>\n<p>Montag bis Freitag von 10.00 bis 18.00 Uhr<br>Samstag von 10.00 bis 16.00 Uhr</p>\n<h3>Wo Sie uns finden</h3>\n<div class=\"post__iframe\"><iframe loading=\"lazy\" width=\"600\" height=\"450\" style=\"border: 0;\" src=\"https://www.google.com/maps/embed?pb=!1m14!1m8!1m3!1d10240.991271301818!2d8.2408606!3d50.0816469!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x311f30c89b23bfe!2sCandan%20Juwelier!5e0!3m2!1sde!2sde!4v1646572820007!5m2!1sde!2sde\" allowfullscreen=\"allowfullscreen\" loading=\"lazy\"></iframe></div>",
             "author": {
-                "name": "Michael Araz"
+                "name": "Admin"
             },
             "tags": [
             ],

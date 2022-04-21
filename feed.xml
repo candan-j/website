@@ -3,16 +3,16 @@
     <title>Candan Juwelier</title>
     <link href="https://candan-juwelier.de/feed.xml" rel="self" />
     <link href="https://candan-juwelier.de" />
-    <updated>2022-03-07T14:57:50+01:00</updated>
+    <updated>2022-03-07T15:05:28+01:00</updated>
     <author>
-        <name>Michael Araz</name>
+        <name>Admin</name>
     </author>
     <id>https://candan-juwelier.de</id>
 
     <entry>
         <title>Seite im Aufbau</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/seite-im-aufbau.html"/>
         <id>https://candan-juwelier.de/seite-im-aufbau.html</id>
@@ -24,18 +24,18 @@
     <entry>
         <title>Breitling Navitimer</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/breitling-navitimer.html"/>
         <id>https://candan-juwelier.de/breitling-navitimer.html</id>
             <category term="Uhr"/>
             <category term="Schmuck"/>
 
-        <updated>2022-03-06T18:13:55+01:00</updated>
+        <updated>2022-03-07T15:05:28+01:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://candan-juwelier.de/media/posts/11/2-3.png" alt="" />
-                     
+                     ... test 
                 ]]>
             </summary>
         <content type="html">
@@ -46,13 +46,16 @@
 <figure class="gallery__item"><a href="https://candan-juwelier.de/media/posts/11/gallery/1.png" data-size="2048x2048"><img loading="lazy" src="https://candan-juwelier.de/media/posts/11/gallery/1-thumbnail.png" alt="" width="768" height="768"></a></figure>
 <figure class="gallery__item"><a href="https://candan-juwelier.de/media/posts/11/gallery/0.png" data-size="2048x2048"><img loading="lazy" src="https://candan-juwelier.de/media/posts/11/gallery/0-thumbnail.png" alt="" width="768" height="768"></a></figure>
 </div></div>
+<p>...</p>
+<p><button>test</button></p>
+<p> </p>
             ]]>
         </content>
     </entry>
     <entry>
         <title>Drive de Cartier</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/drive-de-cartier.html"/>
         <id>https://candan-juwelier.de/drive-de-cartier.html</id>
@@ -80,7 +83,7 @@
     <entry>
         <title>Cartier Juste un Clou</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/cartier-juste-un-clou.html"/>
         <id>https://candan-juwelier.de/cartier-juste-un-clou.html</id>
@@ -108,7 +111,7 @@
     <entry>
         <title>Cartier LOVE</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/cartier-love.html"/>
         <id>https://candan-juwelier.de/cartier-love.html</id>
@@ -136,7 +139,7 @@
     <entry>
         <title>Uhren</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/uhren.html"/>
         <id>https://candan-juwelier.de/uhren.html</id>
@@ -172,7 +175,7 @@
     <entry>
         <title>Reparaturen</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/reparaturen.html"/>
         <id>https://candan-juwelier.de/reparaturen.html</id>
@@ -196,7 +199,7 @@
     <entry>
         <title>Ankauf</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/an-und-verkauf.html"/>
         <id>https://candan-juwelier.de/an-und-verkauf.html</id>
@@ -227,7 +230,7 @@
     <entry>
         <title>Beratung</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/unsere-leistungen.html"/>
         <id>https://candan-juwelier.de/unsere-leistungen.html</id>
@@ -250,7 +253,7 @@
     <entry>
         <title>Kontakt</title>
         <author>
-            <name>Michael Araz</name>
+            <name>Admin</name>
         </author>
         <link href="https://candan-juwelier.de/kontakt.html"/>
         <id>https://candan-juwelier.de/kontakt.html</id>
