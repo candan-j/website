@@ -1,2 +1,3 @@
 User-agent: *
 Disallow:
+Sitemap: https://candan-j.github.io/website/sitemap.xml

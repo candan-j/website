@@ -1,0 +1,81 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>Candan-Juwelier</title>
+    <link href="https://candan-j.github.io/website/feed.xml" rel="self" />
+    <link href="https://candan-j.github.io/website" />
+    <updated>2026-02-14T13:05:05+01:00</updated>
+    <author>
+        <name>Michael</name>
+    </author>
+    <id>https://candan-j.github.io/website</id>
+
+    <entry>
+        <title>Edler Vorsteckring</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://candan-j.github.io/website/edler-vorsteckring.html"/>
+        <id>https://candan-j.github.io/website/edler-vorsteckring.html</id>
+        <media:content url="https://candan-j.github.io/website/media/posts/5/asd.jpeg" medium="image" />
+            <category term="Damenring"/>
+
+        <updated>2026-02-14T10:22:19+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://candan-j.github.io/website/media/posts/5/asd.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.10-2.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.10-2-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.09-2.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.09-2-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.09.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.09-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.10-1.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/5/gallery/WhatsApp-Image-2026-02-14-at-10.10.10-1-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Eindrucksvoller Herrenring</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://candan-j.github.io/website/eindrucksvoller-herrenring.html"/>
+        <id>https://candan-j.github.io/website/eindrucksvoller-herrenring.html</id>
+        <media:content url="https://candan-j.github.io/website/media/posts/4/WhatsApp-Image-2026-02-14-at-10.10.07-6.jpeg" medium="image" />
+            <category term="Herrenring"/>
+
+        <updated>2026-02-14T10:19:30+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://candan-j.github.io/website/media/posts/4/WhatsApp-Image-2026-02-14-at-10.10.07-6.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-5.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-5-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-6.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-6-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.08-4.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/4/gallery/WhatsApp-Image-2026-02-14-at-10.10.08-4-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+    <entry>
+        <title>Stilvoller Damenring für besondere Anlässe</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://candan-j.github.io/website/stilvoller-damenring-fuer-besondere-anlaesse.html"/>
+        <id>https://candan-j.github.io/website/stilvoller-damenring-fuer-besondere-anlaesse.html</id>
+        <media:content url="https://candan-j.github.io/website/media/posts/3/WhatsApp-Image-2026-02-14-at-10.10.07-2.jpeg" medium="image" />
+
+        <updated>2026-02-14T10:17:54+01:00</updated>
+            <summary></summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://candan-j.github.io/website/media/posts/3/WhatsApp-Image-2026-02-14-at-10.10.07-2.jpeg" class="type:primaryImage" alt="" /></p>
+                <div class="gallery-wrapper"><div class="gallery" data-is-empty="false" data-translation="Add images" data-columns="3">
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/3/gallery/a.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/3/gallery/a-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/3/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-2.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/3/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-2-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+<figure class="gallery__item"><a href="https://candan-j.github.io/website/media/posts/3/gallery/WhatsApp-Image-2026-02-14-at-10.10.07.jpeg" data-size="1200x1600"><img loading="lazy" src="https://candan-j.github.io/website/media/posts/3/gallery/WhatsApp-Image-2026-02-14-at-10.10.07-thumbnail.jpeg" alt="" width="768" height="1024"></a></figure>
+</div></div>
+            ]]>
+        </content>
+    </entry>
+</feed>
