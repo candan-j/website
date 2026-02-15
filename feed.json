@@ -10,153 +10,65 @@
     },
     "items": [
         {
-            "id": "https://candan-j.github.io/website/ohrring-3.html",
-            "url": "https://candan-j.github.io/website/ohrring-3.html",
-            "title": "Ohrring 3",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0360.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0360-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0362.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0362-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0364.jpg\" data-size=\"3840x5120\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/20/gallery/IMG-20260214-WA0364-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/20/IMG-20260214-WA0360.jpg",
+            "id": "https://candan-j.github.io/website/trauringe.html",
+            "url": "https://candan-j.github.io/website/trauringe.html",
+            "title": "Trauringe",
+            "image": "https://candan-j.github.io/website/media/posts/9/trauringe.jpg",
             "author": {
                 "name": "Michael"
             },
             "tags": [
-                   "Ohrring"
+                   "Produkt",
+                   "Dienstleistung"
             ],
-            "date_published": "2026-02-14T19:05:53+01:00",
-            "date_modified": "2026-02-14T19:15:57+01:00"
+            "date_published": "2026-02-14T18:36:27+01:00",
+            "date_modified": "2026-02-15T10:44:52+01:00"
         },
         {
-            "id": "https://candan-j.github.io/website/ohrring-2.html",
-            "url": "https://candan-j.github.io/website/ohrring-2.html",
-            "title": "Ohrring 2",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0354.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0354-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0356.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0356-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0358.jpg\" data-size=\"3840x5120\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/19/gallery/IMG-20260214-WA0358-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/19/IMG-20260214-WA0354.jpg",
+            "id": "https://candan-j.github.io/website/altgold.html",
+            "url": "https://candan-j.github.io/website/altgold.html",
+            "title": "Altgold",
+            "summary": "Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle. Ausgediente Stücke machen Platz für Neue! Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck&hellip;",
+            "content_html": "<p>Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle.</p>\n<p>Ausgediente Stücke machen Platz für Neue!</p>\n<p>Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck und Weiteres an.</p>",
+            "image": "https://candan-j.github.io/website/media/posts/8/Gemini_Generated_Image_rb83xerb83xerb83.png",
             "author": {
                 "name": "Michael"
             },
             "tags": [
-                   "Ohrring"
+                   "Dienstleistung"
             ],
-            "date_published": "2026-02-14T19:05:21+01:00",
-            "date_modified": "2026-02-14T19:16:44+01:00"
+            "date_published": "2026-02-14T18:36:22+01:00",
+            "date_modified": "2026-02-15T10:51:03+01:00"
         },
         {
-            "id": "https://candan-j.github.io/website/ohrringe-1.html",
-            "url": "https://candan-j.github.io/website/ohrringe-1.html",
-            "title": "Ohrringe 1",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0366.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0366-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0346.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0346-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0368.jpg\" data-size=\"3840x5120\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/18/gallery/IMG-20260214-WA0368-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/18/IMG-20260214-WA0366.jpg",
+            "id": "https://candan-j.github.io/website/eindruecke.html",
+            "url": "https://candan-j.github.io/website/eindruecke.html",
+            "title": "Eindrücke",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0266.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0266-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0268.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0268-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0270.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0270-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0224.jpg\" data-size=\"3840x3704\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0224-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"741\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0222.jpg\" data-size=\"3840x4328\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/7/gallery/IMG-20260214-WA0222-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"866\"></a></figure>\n</div></div>",
+            "image": "https://candan-j.github.io/website/media/posts/7/IMG-20260214-WA0268.jpg",
             "author": {
                 "name": "Michael"
             },
             "tags": [
-                   "Ohrring"
+                   "Allgemein"
             ],
-            "date_published": "2026-02-14T19:04:47+01:00",
-            "date_modified": "2026-02-14T19:17:31+01:00"
+            "date_published": "2026-02-14T18:36:03+01:00",
+            "date_modified": "2026-02-15T10:23:54+01:00"
         },
         {
-            "id": "https://candan-j.github.io/website/armreif-1-2.html",
-            "url": "https://candan-j.github.io/website/armreif-1-2.html",
-            "title": "Armreif 1",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0308.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0308-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0312.jpg\" data-size=\"4032x3024\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0312-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0302.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/17/gallery/IMG-20260214-WA0302-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/17/IMG-20260214-WA0308.jpg",
+            "id": "https://candan-j.github.io/website/ein-blick-hinein.html",
+            "url": "https://candan-j.github.io/website/ein-blick-hinein.html",
+            "title": "Unser Geschäft",
+            "content_html": "<hr>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0206.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0206-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0208.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0208-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0212.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0212-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0234.jpg\" data-size=\"3840x5120\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0234-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0262.jpg\" data-size=\"5120x3840\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0262-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0264.jpg\" data-size=\"3840x5120\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/6/gallery/IMG-20260214-WA0264-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
+            "image": "https://candan-j.github.io/website/media/posts/6/IMG-20260214-WA0192.jpg",
             "author": {
                 "name": "Michael"
             },
             "tags": [
-                   "Armreif"
+                   "Allgemein"
             ],
-            "date_published": "2026-02-14T19:03:22+01:00",
-            "date_modified": "2026-02-14T19:18:22+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/armreif-2.html",
-            "url": "https://candan-j.github.io/website/armreif-2.html",
-            "title": "Armreif 2",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"4\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0314.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0314-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0318.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0318-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0320.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0320-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0322.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/16/gallery/IMG-20260214-WA0322-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/16/IMG-20260214-WA0314.jpg",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Armreif"
-            ],
-            "date_published": "2026-02-14T19:01:51+01:00",
-            "date_modified": "2026-02-14T19:19:28+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/armreif-1.html",
-            "url": "https://candan-j.github.io/website/armreif-1.html",
-            "title": "Armreif 3",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0328.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0328-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0324.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0324-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0326.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/15/gallery/IMG-20260214-WA0326-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Armreif"
-            ],
-            "date_published": "2026-02-14T19:01:45+01:00",
-            "date_modified": "2026-02-14T19:09:57+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/noch-mehr-ringe.html",
-            "url": "https://candan-j.github.io/website/noch-mehr-ringe.html",
-            "title": "Noch mehr Ringe...",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"1\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/14/gallery/IMG-20260214-WA0290-2.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/14/gallery/IMG-20260214-WA0290-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Sammlung",
-                   "Ring"
-            ],
-            "date_published": "2026-02-14T18:58:36+01:00",
-            "date_modified": "2026-02-14T19:10:05+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/mehr-ringe.html",
-            "url": "https://candan-j.github.io/website/mehr-ringe.html",
-            "title": "Mehr Ringe...",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/13/gallery/IMG-20260214-WA0276.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/13/gallery/IMG-20260214-WA0276-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/13/gallery/IMG-20260214-WA0274.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/13/gallery/IMG-20260214-WA0274-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Sammlung",
-                   "Ring"
-            ],
-            "date_published": "2026-02-14T18:57:50+01:00",
-            "date_modified": "2026-02-14T19:10:15+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/ringe-2.html",
-            "url": "https://candan-j.github.io/website/ringe-2.html",
-            "title": "Ringe...",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"2\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/12/gallery/IMG-20260214-WA0242-2.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/12/gallery/IMG-20260214-WA0242-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/12/gallery/IMG-20260214-WA0240-2.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/12/gallery/IMG-20260214-WA0240-2-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Sammlung",
-                   "Ring"
-            ],
-            "date_published": "2026-02-14T18:57:10+01:00",
-            "date_modified": "2026-02-14T19:10:24+01:00"
-        },
-        {
-            "id": "https://candan-j.github.io/website/schlichter-zeitmesser.html",
-            "url": "https://candan-j.github.io/website/schlichter-zeitmesser.html",
-            "title": "Schlichter Zeitmesser",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-is-empty=\"false\" data-translation=\"Add images\" data-columns=\"3\">\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0280.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0280-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0282.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0282-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0284.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0284-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0286.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0286-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0288.jpg\" data-size=\"3024x4032\"><img loading=\"lazy\" src=\"https://candan-j.github.io/website/media/posts/11/gallery/IMG-20260214-WA0288-thumbnail.jpg\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>",
-            "image": "https://candan-j.github.io/website/media/posts/11/IMG-20260214-WA0280.jpg",
-            "author": {
-                "name": "Michael"
-            },
-            "tags": [
-                   "Uhr"
-            ],
-            "date_published": "2026-02-14T18:54:54+01:00",
-            "date_modified": "2026-02-14T19:11:01+01:00"
+            "date_published": "2026-02-14T17:30:21+01:00",
+            "date_modified": "2026-02-15T10:23:44+01:00"
         }
     ]
 }
