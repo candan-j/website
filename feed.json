@@ -13,6 +13,8 @@
             "id": "https://candan-j.github.io/website/trauringe.html",
             "url": "https://candan-j.github.io/website/trauringe.html",
             "title": "Trauringe",
+            "summary": "Ein Symbol für die Ewigkeit: Trauringe, die Ihre Geschichte erzählen Vertrauen Sie auf unsere jahrelange Erfahrung, wenn es um den wichtigsten Ring Ihres Lebens&hellip;",
+            "content_html": "<h2 data-path-to-node=\"1\">Ein Symbol für die Ewigkeit: Trauringe, die Ihre Geschichte erzählen</h2>\n<p data-path-to-node=\"2\">Vertrauen Sie auf unsere jahrelange Erfahrung, wenn es um den wichtigsten Ring Ihres Lebens geht. In unserer umfangreichen Kollektion finden Sie eine unvergleichliche Auswahl an Designs – von zeitlosen Klassikern in Gold und Platin bis hin zu modernen Kreationen, die so individuell sind wie Ihre Liebe. Ob schlichte Eleganz oder funkelnde Brillanz, wir bieten für jedes Paar und jedes Budget den passenden Rahmen für das gemeinsame Versprechen.</p>",
             "image": "https://candan-j.github.io/website/media/posts/9/trauringe.jpg",
             "author": {
                 "name": "Michael"
@@ -22,14 +24,14 @@
                    "Dienstleistung"
             ],
             "date_published": "2026-02-14T18:36:27+01:00",
-            "date_modified": "2026-02-15T10:44:52+01:00"
+            "date_modified": "2026-02-15T13:49:52+01:00"
         },
         {
             "id": "https://candan-j.github.io/website/altgold.html",
             "url": "https://candan-j.github.io/website/altgold.html",
             "title": "Altgold",
-            "summary": "Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle. Ausgediente Stücke machen Platz für Neue! Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck&hellip;",
-            "content_html": "<p>Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle.</p>\n<p>Ausgediente Stücke machen Platz für Neue!</p>\n<p>Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck und Weiteres an.</p>",
+            "summary": "Platz für Neues schaffen – Profitieren Sie von Rekord-Goldpreisen! Haben Sie Schmuckstücke, die nur noch in der Schublade liegen, oder Erbstücke, die nicht mehr&hellip;",
+            "content_html": "<h2 data-path-to-node=\"1\">Platz für Neues schaffen – Profitieren Sie von Rekord-Goldpreisen!</h2>\n<p data-path-to-node=\"2\">Haben Sie Schmuckstücke, die nur noch in der Schublade liegen, oder Erbstücke, die nicht mehr Ihrem Stil entsprechen? Nutzen Sie die <strong data-path-to-node=\"2\" data-index-in-node=\"133\">aktuell historisch hohen Ankaufspreise</strong>, um Ihr Altgold, Zahngold, Silber oder Platin in allen Formen – ob defekt oder massiv – unkompliziert zu Bargeld zu machen. Schaffen Sie wertvollen Platz für neue Lieblingsstücke und lassen Sie Ihre ungenutzten Schätze bei uns professionell, diskret und zu fairen Konditionen bewerten.</p>",
             "image": "https://candan-j.github.io/website/media/posts/8/Gemini_Generated_Image_rb83xerb83xerb83.png",
             "author": {
                 "name": "Michael"
@@ -38,7 +40,7 @@
                    "Dienstleistung"
             ],
             "date_published": "2026-02-14T18:36:22+01:00",
-            "date_modified": "2026-02-15T10:51:03+01:00"
+            "date_modified": "2026-02-15T13:53:21+01:00"
         },
         {
             "id": "https://candan-j.github.io/website/eindruecke.html",

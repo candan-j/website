@@ -3,7 +3,7 @@
     <title>Candan-Juwelier</title>
     <link href="https://candan-j.github.io/website/feed.xml" rel="self" />
     <link href="https://candan-j.github.io/website" />
-    <updated>2026-02-15T10:51:03+01:00</updated>
+    <updated>2026-02-15T13:53:21+01:00</updated>
     <author>
         <name>Michael</name>
     </author>
@@ -21,8 +21,19 @@
             <category term="Dienstleistung"/>
 
         <updated>2026-02-14T18:36:27+01:00</updated>
-            <summary></summary>
-        <content></content>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://candan-j.github.io/website/media/posts/9/trauringe.jpg" alt="" />
+                    Ein Symbol für die Ewigkeit: Trauringe, die Ihre Geschichte erzählen Vertrauen Sie auf unsere jahrelange Erfahrung, wenn es um den wichtigsten Ring Ihres Lebens&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://candan-j.github.io/website/media/posts/9/trauringe.jpg" class="type:primaryImage" alt="" /></p>
+                <h2 data-path-to-node="1">Ein Symbol für die Ewigkeit: Trauringe, die Ihre Geschichte erzählen</h2>
+<p data-path-to-node="2">Vertrauen Sie auf unsere jahrelange Erfahrung, wenn es um den wichtigsten Ring Ihres Lebens geht. In unserer umfangreichen Kollektion finden Sie eine unvergleichliche Auswahl an Designs – von zeitlosen Klassikern in Gold und Platin bis hin zu modernen Kreationen, die so individuell sind wie Ihre Liebe. Ob schlichte Eleganz oder funkelnde Brillanz, wir bieten für jedes Paar und jedes Budget den passenden Rahmen für das gemeinsame Versprechen.</p>
+            ]]>
+        </content>
     </entry>
     <entry>
         <title>Altgold</title>
@@ -38,15 +49,14 @@
             <summary type="html">
                 <![CDATA[
                         <img src="https://candan-j.github.io/website/media/posts/8/Gemini_Generated_Image_rb83xerb83xerb83.png" alt="" />
-                    Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle. Ausgediente Stücke machen Platz für Neue! Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck&hellip;
+                    Platz für Neues schaffen – Profitieren Sie von Rekord-Goldpreisen! Haben Sie Schmuckstücke, die nur noch in der Schublade liegen, oder Erbstücke, die nicht mehr&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <p><img src="https://candan-j.github.io/website/media/posts/8/Gemini_Generated_Image_rb83xerb83xerb83.png" class="type:primaryImage" alt="" /></p>
-                <p>Gerne unterbreiten wir Ihnen ein individuelles Angebot für Ihre Edelmetalle.</p>
-<p>Ausgediente Stücke machen Platz für Neue!</p>
-<p>Wir nehmen gerne Ringe, Ketten, Barren, Zahngold, Besteck und Weiteres an.</p>
+                <h2 data-path-to-node="1">Platz für Neues schaffen – Profitieren Sie von Rekord-Goldpreisen!</h2>
+<p data-path-to-node="2">Haben Sie Schmuckstücke, die nur noch in der Schublade liegen, oder Erbstücke, die nicht mehr Ihrem Stil entsprechen? Nutzen Sie die <strong data-path-to-node="2" data-index-in-node="133">aktuell historisch hohen Ankaufspreise</strong>, um Ihr Altgold, Zahngold, Silber oder Platin in allen Formen – ob defekt oder massiv – unkompliziert zu Bargeld zu machen. Schaffen Sie wertvollen Platz für neue Lieblingsstücke und lassen Sie Ihre ungenutzten Schätze bei uns professionell, diskret und zu fairen Konditionen bewerten.</p>
             ]]>
         </content>
     </entry>
