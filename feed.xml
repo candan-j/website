@@ -3,12 +3,41 @@
     <title>Candan-Juwelier</title>
     <link href="https://candan-j.github.io/website/feed.xml" rel="self" />
     <link href="https://candan-j.github.io/website" />
-    <updated>2026-02-15T13:53:21+01:00</updated>
+    <updated>2026-02-21T16:16:20+01:00</updated>
     <author>
         <name>Michael</name>
     </author>
     <id>https://candan-j.github.io/website</id>
 
+    <entry>
+        <title>Willkommen...</title>
+        <author>
+            <name>Michael</name>
+        </author>
+        <link href="https://candan-j.github.io/website/willkommen.html"/>
+        <id>https://candan-j.github.io/website/willkommen.html</id>
+        <media:content url="https://candan-j.github.io/website/media/posts/28/Unbenannt-2.png" medium="image" />
+
+        <updated>2026-02-16T09:48:17+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                        <img src="https://candan-j.github.io/website/media/posts/28/Unbenannt-2.png" alt="" />
+                    ... bei Ihrem Traditionsjuwelier Seit 1998 Ihr Experte für Glanz und bleibende Werte. Herzlich willkommen bei Ihrem Juwelier im Herzen von Wiesbaden –– wir&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <p><img src="https://candan-j.github.io/website/media/posts/28/Unbenannt-2.png" class="type:primaryImage" alt="" /></p>
+                <h1>... bei Ihrem Traditionsjuwelier</h1>
+<h4>Seit 1998 Ihr Experte für Glanz und bleibende Werte.</h4>
+<p>Herzlich willkommen bei Ihrem Juwelier im Herzen von Wiesbaden –– wir freuen uns, Sie seit <strong data-path-to-node="0" data-index-in-node="86">1998</strong> mit Leidenschaft und Fachwissen begleiten zu dürfen. In unserem Traditionshaus erwartet Sie eine Atmosphäre voller Glanz, in der wir uns viel Zeit für Ihre <strong data-path-to-node="0" data-index-in-node="247">individuelle Beratung</strong> nehmen.</p>
+<p>Entdecken Sie in unserer Ausstellung traumhafte <a href="https://candan-j.github.io/website/trauringe.html">Trauringe</a>, die den Bund fürs Leben perfekt besiegeln. Neben exklusivem Schmuck sind wir auch Ihr kompetenter Partner für den Ankauf von <a href="https://candan-j.github.io/website/altgold.html">Altgold</a> und Edelmetalle, wobei wir Ihnen stets faire und marktgerechte Konditionen garantieren.</p>
+<p>Damit Ihre liebgewonnenen Schätze lange erhalten bleiben, führen wir professionelle <strong data-path-to-node="0" data-index-in-node="625">Reparaturen</strong> mit höchster Präzision in unserer Werkstatt durch. Tauchen Sie online in unsere vielfältige Welt ein und gewinnen Sie erste <a href="https://candan-j.github.io/website/eindruecke.html">Eindrücke</a> von unserem handverlesenen Sortiment.</p>
+<p>Werfen Sie gerne einen <a href="https://candan-j.github.io/website/eindruecke.html">Blick ins Geschäft</a>, um das besondere Ambiente unserer Räumlichkeiten kennenzulernen. Unsere hochwertigen <a href="https://candan-j.github.io/website/tags/produkt/">Produkte</a> stehen für erstklassige Qualität und zeitloses Design für jeden Geschmack. Wir laden Sie herzlich ein, uns persönlich zu besuchen und die Faszination edler Metalle und Steine hautnah zu erleben.</p>
+<h4>Wir sind Ihr verlässlicher Ansprechpartner für alles, was glänzt – gestern, heute und in Zukunft.</h4>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Trauringe</title>
         <author>
